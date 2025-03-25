@@ -1,2 +1,2 @@
-# Inventory-backend
-A web based inventory management system for small business.
+# Local pharmacy
+A simple web information system for local parmacy.
